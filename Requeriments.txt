@@ -1,0 +1,2 @@
+# Este projeto utiliza apenas bibliotecas nativas (Tkinter)
+# Não há dependências externas para instalar via pip.
